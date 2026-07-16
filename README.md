@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Vedprakash 👋
 
-<!--
-**singhved/singhved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer — .NET Full Stack Developer with 3.5+ years of experience building
+scalable web apps and high-performance RESTful APIs.
 
-Here are some ideas to get you started:
+- 🔭 Currently building production APIs at **Suretek Infosoft**, Noida
+- 🏗️ Deep experience with **ASP.NET Core, Clean Architecture, CQRS + MediatR, Microservices**
+- 🗄️ Strong in **SQL Server, PostgreSQL, Query Optimization, Stored Procedures**
+- 💻 Full stack: JavaScript, jQuery, ReactJS, Bootstrap
+- ☁️ Azure DevOps — CI/CD pipelines, App Service, Blob Storage
+- 🎓 MCA — GL Bajaj Institute of Technology & Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured work
+- **Pillars** — .NET 8 · Clean Architecture · CQRS · MediatR · enterprise associate-ops platform
+- **QSR-Online** — Multi-location QSR CRM with real-time sales & inventory reporting
+- **Educare Portal** — Education management system with role-based access control
+
+📫 vedprakashs039@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedprakash-singh-608969202)
