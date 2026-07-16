@@ -15,5 +15,5 @@ scalable web apps and high-performance RESTful APIs.
 - **QSR-Online** — Multi-location QSR CRM with real-time sales & inventory reporting
 - **Educare Portal** — Education management system with role-based access control
 
-📫 vedprakashs039@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedprakash-singh-608969202)
-    [Portfolio](https://singhved.github.io/portfolio/)
+📫 vedprakashs039@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedprakash-singh-608969202) [Portfolio](https://singhved.github.io/portfolio/)
+    
