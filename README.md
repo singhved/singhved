@@ -16,3 +16,4 @@ scalable web apps and high-performance RESTful APIs.
 - **Educare Portal** — Education management system with role-based access control
 
 📫 vedprakashs039@gmail.com · [LinkedIn](https://www.linkedin.com/in/vedprakash-singh-608969202)
+https://singhved.github.io/portfolio/
